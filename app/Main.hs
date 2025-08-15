@@ -7,6 +7,6 @@ import Interpreter
 
 main :: IO ()
 main = do
-  putStrLn (showF (cToF (Celsius 25)))
+  putStrLn (showF (cTof (Celsius 25)))
   putStrLn (render (sanitize " hello "))
   mapM_ putStrLn (plan (WriteEmail "alice@example.com" "hello" "let's meet"))

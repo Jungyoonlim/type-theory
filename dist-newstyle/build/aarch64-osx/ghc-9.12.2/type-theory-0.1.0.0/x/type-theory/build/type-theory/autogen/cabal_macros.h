@@ -20,6 +20,16 @@
   (major1) == 4 && (major2) <  21 || \
   (major1) == 4 && (major2) == 21 && (minor) <= 0)
 #endif /* MIN_VERSION_base */
+/* package type-theory-0.1.0.0 */
+#ifndef VERSION_type_theory
+#define VERSION_type_theory "0.1.0.0"
+#endif /* VERSION_type_theory */
+#ifndef MIN_VERSION_type_theory
+#define MIN_VERSION_type_theory(major1,major2,minor) (\
+  (major1) <  0 || \
+  (major1) == 0 && (major2) <  1 || \
+  (major1) == 0 && (major2) == 1 && (minor) <= 0)
+#endif /* MIN_VERSION_type_theory */
 
 /* tool gcc-16.0.0 */
 #ifndef TOOL_VERSION_gcc
