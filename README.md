@@ -19,9 +19,7 @@ The OS knows the shape of every possible action before touching any API. With Ty
 
 Types give synctactic information whereas sets give semantic information.
 
-
-
-Extensionality vs. Intensionality: 
+Extensionality vs. Intensionality:
 
 ## Function Types -> Lambda Calculus
 
