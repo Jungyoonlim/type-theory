@@ -8,6 +8,7 @@ Learning from:
 - https://www.cs.ru.nl/~herman/PUBS/IntroTT-improved.pdf
 - https://seclab.illinois.edu/wp-content/uploads/2011/04/Gunter94.pdf
 - https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf
+- https://www.cs.sjtu.edu.cn/~kzhu/cs383/Pierce_Types_Programming_Languages.pdf
 
 ## why type theory?
 
