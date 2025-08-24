@@ -9,6 +9,7 @@ Learning from:
 - https://seclab.illinois.edu/wp-content/uploads/2011/04/Gunter94.pdf
 - https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf
 - https://www.cs.sjtu.edu.cn/~kzhu/cs383/Pierce_Types_Programming_Languages.pdf
+- https://www.youtube.com/playlist?list=PLGCr8P_YncjXRzdGq2SjKv5F2J8HUFeqN
 
 ## why type theory?
 
