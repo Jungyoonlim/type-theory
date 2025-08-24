@@ -52,7 +52,7 @@ A computation rule tells us what happens when the elimination rule is applied to
 
 ## Ideas
 
-So the OS would be a type-directed interaciton space. OS with type theory would narrow the action space before AI even guesses.
+So the OS would be a type-directed interaction space. OS with type theory would narrow the action space before AI even guesses.
 
 e.g.
 
