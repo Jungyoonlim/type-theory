@@ -40,3 +40,14 @@ _effEmpty = EffEmpty
 effEmpty = _effEmpty 
 
 -- | Extend a row with a new label 
+effExt :: String -> EffRow -> EffRow 
+ effExt = EffExt 
+
+-- | A row variable (open row tail)
+effVar :: String -> EffRow
+ effVar = EffVar 
+
+ -- | Unknown / meta row when we can't safely express a result (e.g. ρ ⊔ σ)
+ effUnknown :: EffRow 
+  effUnknown = EffUnknown 
+
