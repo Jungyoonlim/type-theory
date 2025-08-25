@@ -8,7 +8,6 @@ A mathematical object used in type systems to track computational effects
 So rows are like row-polymorphic records, but instead of fields, we are collecting effects. 
 
 
-
 ## Algebra of Effect Rows 
 
 ### Union 
